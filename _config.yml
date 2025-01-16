@@ -21,12 +21,12 @@ repository               : "RAZZAQ-Asad/RAZZAQ-Asad.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "asad.png"
+  avatar           : "asad.PNG"
   name             : "Asad Razzaq"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Swarm Robotics"
   location         : "Toyama, Japan"
-  employer         : "University of toyama, Japan"
+  employer         : "University of Toyama, Japan"
   uri              : # URL
   email            : "asad9731@gmail.com" 
 
