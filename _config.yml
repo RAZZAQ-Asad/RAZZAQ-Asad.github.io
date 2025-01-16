@@ -21,7 +21,7 @@ repository               : "RAZZAQ-Asad/RAZZAQ-Asad.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "asad.PNG"
+  avatar           : #"asad.PNG"
   name             : "Asad Razzaq"
   pronouns         : # example: "she/her"  
   bio              : "Swarm Robotics"
